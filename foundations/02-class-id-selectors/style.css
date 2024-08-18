@@ -1,0 +1,20 @@
+/* This is an activity lol */
+
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVU Sans, "sans-serif";
+}
+
+.size {
+    font-size: 24px;
+}
+
+#second {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: aquamarine;
+    font-weight: 700;
+}
